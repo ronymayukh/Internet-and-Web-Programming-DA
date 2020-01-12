@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(234, 237, 135);
+    color: rgba(255, 0, 0, 0.685);
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    margin-left: 10PX;
+    font-size: 50px;
+}
+
+a {
+    display: block;
+    width: 100%;
+    
+    color:blue;
+    text-decoration: none;
+    background-image: url("pointer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size:30px;
+    
+  }
+
+  #right{
+      width: 84%;
+      float: right;
+   
+
+
+  }
+
+  #left{
+    width: 15%;
+    float:left;
+    margin-top: 90px;
+ 
+
+
+  }
+
+  p{
+      margin-left: 10px;
+
+  }

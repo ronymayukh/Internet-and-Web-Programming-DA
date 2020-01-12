@@ -1,0 +1,78 @@
+body{
+    border-right: 25px solid rgb(171, 173, 153);
+    border-left: 25px solid rgb(171, 173, 153);
+    height: 100vh;
+}
+
+#main{
+    margin:10px;
+    
+}
+
+.head{
+    width: 100%;
+    height: 20vh;
+}
+
+#left{
+    width: 20%;
+    height: 100vh;
+    display: inline-block;
+    background-color: rgba(214, 219, 175,0.5);
+    margin-right: 5px;
+
+}
+
+#right{
+    margin-left: 5px;
+    height: 100vh;
+    width: 79%;
+    display: inline-block;
+    background-color: rgba(214, 219, 175,0.2);
+    color: rgb(107, 110, 82);
+
+}
+
+button{
+    width: 100%;
+    font-size: large;
+    height:5vh;
+    background-color: rgba(214, 219, 175,0.2);
+    color: rgb(107, 110, 82);
+    text-align: left;
+}
+
+button:hover{
+    width: 100%;
+    font-size: large;
+    height:5vh;
+    background-color: rgba(249, 166, 250, 0.904);
+    color: rgb(201, 0, 241);
+}
+
+h1{
+    margin-left:3%;
+    color: rgb(107, 110, 82);
+}
+
+p{
+    margin-left:3%;
+}
+
+#pic{
+    float: right;
+    height: 250px;
+    width: 250px;
+    border: white solid 20px ;
+    margin: 15px;
+}
+
+h2 {
+    margin-left:5%;
+    color: rgb(107, 110, 82);
+}
+
+a,li{
+    color: red;
+    text-decoration: underline;
+}

@@ -1,0 +1,42 @@
+#outer{
+    border-top: 15px red solid;
+    border-bottom: 5px red solid;
+    width: 60%;
+    margin-left: 15%;
+    box-shadow: 0 5px 5px  rgba(0,0,0, .65);
+}
+
+#head{
+    text-align: center;
+    font-size:30px;
+}
+
+#inner-1{
+    border:7px red solid;
+    margin: 5px;
+    margin 5px;
+    width: 90%;
+    margin-left: 25px;
+}
+h3{
+    color: red;
+}
+button {
+    margin-left: 50%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+#inner{
+    margin:20px 10px 10px 10px;
+    background-color:#f0f0f0;
+    box-shadow: 0 5px 5px rgba(0,0,0, .65);
+}
+
+img{
+    float:right;
+}
+
+div{
+    border:black solid 5px;
+}
